@@ -6,6 +6,7 @@ public class Test {
 
 		// some test for github
 		
+		Object someRandomStuff = new Object();
 	}
 
 }
